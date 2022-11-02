@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Gamma>0</Gamma>
+  <Scale>0</Scale>
+  <isFullScreen>0</isFullScreen>
+  <Resolution>14</Resolution>
+  <isRussian>1</isRussian>
+  <Coins>0</Coins>
+</GameData>
